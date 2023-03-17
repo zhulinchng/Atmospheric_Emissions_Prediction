@@ -1,0 +1,7 @@
+openpyxl==3.1.0
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+xgboost
