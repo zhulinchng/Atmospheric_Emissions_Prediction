@@ -1,0 +1,11 @@
+,LR,SVR,DTR,RFR,GBR,XGB
+CO2,default,"{'C': 100, 'epsilon': 0.001}",{'max_depth': 12},{'n_estimators': 200},"{'max_depth': 6, 'n_estimators': 200}","{'max_depth': 6, 'n_estimators': 200}"
+NOx,default,"{'C': 10, 'epsilon': 0.001}",{'max_depth': 11},{'n_estimators': 200},"{'max_depth': 6, 'n_estimators': 200}","{'max_depth': 8, 'n_estimators': 200}"
+PM10_Brake,default,"{'C': 1, 'epsilon': 0.01}",{'max_depth': 9},{'n_estimators': 120},"{'max_depth': 4, 'n_estimators': 200}","{'max_depth': 6, 'n_estimators': 120}"
+PM10_Exhaust,default,"{'C': 0.1, 'epsilon': 0.01}",{'max_depth': 12},{'n_estimators': 150},"{'max_depth': 6, 'n_estimators': 200}","{'max_depth': 6, 'n_estimators': 200}"
+PM10_Resusp,default,"{'C': 100, 'epsilon': 0.01}",{'max_depth': None},{'n_estimators': 150},"{'max_depth': 6, 'n_estimators': 200}","{'max_depth': 6, 'n_estimators': 200}"
+PM10_Tyre,default,"{'C': 1, 'epsilon': 0.01}",{'max_depth': 11},{'n_estimators': 200},"{'max_depth': 6, 'n_estimators': 200}","{'max_depth': 6, 'n_estimators': 200}"
+PM25_Brake,default,"{'C': 0.1, 'epsilon': 0.01}",{'max_depth': 9},{'n_estimators': 200},"{'max_depth': 4, 'n_estimators': 200}","{'max_depth': 6, 'n_estimators': 120}"
+PM25_Exhaust,default,"{'C': 0.1, 'epsilon': 0.01}",{'max_depth': 12},{'n_estimators': 200},"{'max_depth': 6, 'n_estimators': 200}","{'max_depth': 6, 'n_estimators': 200}"
+PM25_Resusp,default,"{'C': 0.1, 'epsilon': 0.001}",{'max_depth': 12},{'n_estimators': 200},"{'max_depth': 6, 'n_estimators': 200}","{'max_depth': 8, 'n_estimators': 120}"
+PM25_Tyre,default,"{'C': 0.1, 'epsilon': 0.01}",{'max_depth': None},{'n_estimators': 200},"{'max_depth': 6, 'n_estimators': 200}","{'max_depth': 6, 'n_estimators': 200}"

@@ -1,0 +1,11 @@
+,pollutant,best_r2,best_mse,best_rmse
+0,CO2,XGB,XGB,XGB
+1,NOx,XGB,XGB,XGB
+2,PM10_Brake,GBR,GBR,GBR
+3,PM10_Exhaust,XGB,XGB,XGB
+4,PM10_Resusp,XGB,XGB,XGB
+5,PM10_Tyre,XGB,XGB,XGB
+6,PM25_Brake,GBR,GBR,GBR
+7,PM25_Exhaust,XGB,XGB,XGB
+8,PM25_Resusp,GBR,GBR,GBR
+9,PM25_Tyre,XGB,XGB,XGB
