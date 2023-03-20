@@ -8,8 +8,6 @@ To predict emissions of various pollutants from road features and traffic data u
 
 ## Usage
 
-The code is divided into 3 parts, and can be run individually:
+Open the notebook at [main.ipynb](main.ipynb) and run the cells.
 
-1. Data Preparation
-2. Model Development
-3. Results Summary
+Alternatively, you can view the notebook in HTML format at [main.html](main.html).
